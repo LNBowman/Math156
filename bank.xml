@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bank xmlns="https://checkit.clontz.org" version="0.2">
+    <title>Bowman Math 156 Precalculus</title>
+    <slug>Bowman Math 156 Precalculus</slug>
+    <url>https://checkit.clontz.org</url>
+    <outcomes>
+        <outcome>
+            <title>Equation of a Line</title>
+            <slug>EQ2</slug>
+            <path>outcomes/EQ2</path>
+            <description>
+Writing the Equation of a Line
+            </description>
+        </outcome>
+        <outcome>
+            <title>Exponential Equations</title>
+            <slug>EQ3A</slug>
+            <path>outcomes/EQ3A</path>
+            <description>
+Solving Exponential Equations
+            </description>
+        </outcome>
+        <outcome>
+            <title>Logarithmic Equations</title>
+            <slug>EQ3B</slug>
+            <path>outcomes/EQ3B</path>
+            <description>
+Solving Logarithmic Equations
+            </description>
+        </outcome>
+        <outcome>
+            <title>Systems of Equations</title>
+            <slug>EQ5</slug>
+            <path>outcomes/EQ5</path>
+            <description>
+Solving Systems of Linear Equations in Two Variables
+            </description>
+        </outcome>
+        
+        <outcome>
+            <title>Domain</title>
+            <slug>FUN1</slug>
+            <path>outcomes/FUN1</path>
+            <description>
+Determining the Domain of a Function
+            </description>
+        </outcome>
+        <outcome>
+            <title>Transformed Functions</title>
+            <slug>FUN3</slug>
+            <path>outcomes/FUN3</path>
+            <description>
+Sketching the Graph of a Transformed Function
+            </description>
+        </outcome>
+        <outcome>
+            <title>Piecewise Functions</title>
+            <slug>FUN4</slug>
+            <path>outcomes/FUN4</path>
+            <description>
+Evaluating Piecwise Functions
+            </description>
+        </outcome>
+        <outcome>
+            <title>Combining Functions</title>
+            <slug>FUN5</slug>
+            <path>outcomes/FUN5</path>
+            <description>
+Evaluating Combinations of Functions
+            </description>
+        </outcome>
+        <outcome>
+            <title>Inverse Functions</title>
+            <slug>FUN6</slug>
+            <path>outcomes/FUN6</path>
+            <description>
+Determining Inverses Graphically and by Formula
+            </description>
+        </outcome>
+        
+        <outcome>
+            <title>Quadratic Graphs</title>
+            <slug>GRAL1</slug>
+            <path>outcomes/GRAL1</path>
+            <description>
+Sketching the Graph of a Quadratic Function
+            </description>
+        </outcome>
+        <outcome>
+            <title>Polynomial Graphs</title>
+            <slug>GRAL2</slug>
+            <path>outcomes/GRAL2</path>
+            <description>
+Sketching the Graph of Polynomial Function
+            </description>
+        </outcome>
+        <outcome>
+            <title>Rational Graphs</title>
+            <slug>GRAL3</slug>
+            <path>outcomes/GRAL3</path>
+            <description>
+Sketching the Graph of a Rational Function
+            </description>
+        </outcome>
+        
+        <outcome>
+            <title>Exponential Graphs</title>
+            <slug>GRTR2A</slug>
+            <path>outcomes/GRTR2A</path>
+            <description>
+Sketching the Graph of a Exponential Function
+            </description>
+        </outcome>
+        
+        <outcome>
+            <title>Quadratic Models</title>
+            <slug>APP1</slug>
+            <path>outcomes/APP1</path>
+            <description>
+Constructing and Applying a Quadratic Model
+            </description>
+        </outcome>
+        <outcome>
+            <title>Exponential Models</title>
+            <slug>APP2</slug>
+            <path>outcomes/APP2</path>
+            <description>
+Constructing and Applying an Exponential Model
+            </description>
+        </outcome>
+        <outcome>
+            <title>Right Triangles</title>
+            <slug>APP3</slug>
+            <path>outcomes/APP3</path>
+            <description>
+Solving Right Triangles
+            </description>
+        </outcome>
+        <outcome>
+            <title>Trigonometric Models</title>
+            <slug>APP4</slug>
+            <path>outcomes/APP4</path>
+            <description>
+Constructing and Applying Trigonometric Models
+            </description>
+        </outcome>
+        
+        <outcome>
+            <title>Linear Graphs</title>
+            <slug>OTH1A</slug>
+            <path>outcomes/OTH1A</path>
+            <description>
+Sketching the Graph of a Linear Function
+            </description>
+        </outcome>       
+        <outcome>
+            <title>Linear Models</title>
+            <slug>OTH1B</slug>
+            <path>outcomes/OTH1B</path>
+            <description>
+Constructing and Applying a Linear Model
+            </description>
+        </outcome>
+        <outcome>
+            <title>Identifying Functions</title>
+            <slug>OTH2A</slug>
+            <path>outcomes/OTH2A</path>
+            <description>
+Identifying Functions, Relations, and 1-1 Functions
+            </description>
+        </outcome>
+        <outcome>
+            <title>Local Behavior</title>
+            <slug>OTH2B</slug>
+            <path>outcomes/OTH2B</path>
+            <description>
+Locating Minimums, Maximums, Intervals of Increase and Intervals of Decrease
+            </description>
+        </outcome>
+        <outcome>
+            <title>Absolute Value</title>
+            <slug>OTH2C</slug>
+            <path>outcomes/OTH2C</path>
+            <description>
+Solving Absolute Value Equations and Inequalities
+            </description>
+        </outcome>
+        
+        <outcome>
+            <title>Identifying Polynomials</title>
+            <slug>OTH2D</slug>
+            <path>outcomes/OTH2D</path>
+            <description>
+Identifying Polynomials
+            </description>
+        </outcome>
+        <outcome>
+            <title>Polynomial Equations</title>
+            <slug>OTH2E</slug>
+            <path>outcomes/OTH2E</path>
+            <description>
+Solving Polynomial Equations
+            </description>
+        </outcome>
+        <outcome>
+            <title>Dividing Polynomials</title>
+            <slug>OTH2F</slug>
+            <path>outcomes/OTH2F</path>
+            <description>
+Divinding Polynomials
+            </description>
+        </outcome>
+        <outcome>
+            <title>Evaluating Logarithms</title>
+            <slug>OTH3A</slug>
+            <path>outcomes/OTH3A</path>
+            <description>
+Evaluating Logarithmic Expressions
+            </description>
+        </outcome>
+        <outcome>
+            <title>Manipulating Logarithms</title>
+            <slug>OTH3B</slug>
+            <path>outcomes/OTH3B</path>
+            <description>
+Expanding and Condensing Logarithmic Expressions
+            </description>
+        </outcome>
+        <outcome>
+            <title>Angles</title>
+            <slug>OTH4A</slug>
+            <path>outcomes/OTH4A</path>
+            <description>
+Rewriting Angles and Finding Reference Angles
+            </description>
+        </outcome>
+        <outcome>
+            <title>Evaluating Trigonometric Functions</title>
+            <slug>OTH4B</slug>
+            <path>outcomes/OTH4B</path>
+            <description>
+Evaluating and Approximating Trigonometric Functions
+            </description>
+        </outcome>
+        <outcome>
+            <title>Trigonometric Graphs</title>
+            <slug>GRTR3</slug>
+            <path>outcomes/GRTR3</path>
+            <description>
+Sketching the Graph of Sine or Cosine with Amplitude and Frequency
+            </description>
+        </outcome>
+        <outcome>
+            <title>Manipulating Trigonometric Expressions</title>
+            <slug>OTH4C</slug>
+            <path>outcomes/OTH4C</path>
+            <description>
+Manipulating Trigonometric Epxressions
+            </description>
+        </outcome>
+        
+    </outcomes>
+</bank>
