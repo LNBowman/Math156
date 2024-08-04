@@ -1,0 +1,14 @@
+# dashboard
+*.sage-jupyter2
+*.sage.py
+__pycache__
+*.egg-info
+dashboard/build
+dashboard/dist
+viewer.zip
+
+# bank
+bank/**/generated
+bank/assets/bank.json
+bank/dashboard.ipynb
+bank/docs
