@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<bank xmlns="https://checkit.clontz.org" version="0.2">
+<bank xmlns="https://lnbowman.github.io/Math156/" version="0.2">
     <title>Bowman Math 156 Precalculus</title>
     <slug>Bowman Math 156 Precalculus</slug>
-    <url>https://checkit.clontz.org</url>
+    <url>https://lnbowman.github.io/Math156/</url>
     <outcomes>
         <outcome>
             <title>Equation of a Line</title>
